@@ -1,2 +1,2 @@
-# Tinymind-V7.4
+# Tinymind-V7
 A fully functional AI in scratch
